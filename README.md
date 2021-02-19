@@ -1,6 +1,8 @@
 # Conquistas de 2018 até 2020 na UpInside Treinamentos 
 
-Aqui as nove Conquistas do #SilvestreTI na #PlataformaUpInside, algumas (3) entre os #Top100 nos 11.382 (maio 2020) e nos atuais 12.164 na UpInside (out 2020). Foram 27 meses de Estudos e Aprendizagem das Boas Práticas e do Jeito Certo na UpInside, para ter a Formação de Profissional Jedi da #UpInsideTreinamentos
+Aqui as nove Conquistas do #SilvestreTI na #PlataformaUpInside, algumas (3) entre os #Top100 nos 11.382 (maio 2020) e nos atuais 12.164 na UpInside (out 2020). Foram 27 meses de Estudos e Aprendizagem das Boas Práticas e do Jeito Certo na UpInside, para ter a Formação de Profissional Jedi da #UpInsideTreinamentos 
+
+![Conquistas UpInside 2018 2020](https://user-images.githubusercontent.com/76437195/103810172-2b006d80-5031-11eb-9ef1-e9c4e1f2dddd.jpg)
 
 ## Conquistas #UpInside #Profissionais 
 
@@ -31,4 +33,3 @@ Aqui as nove Conquistas do #SilvestreTI na #PlataformaUpInside, algumas (3) entr
 #### [9. Membro do Club](https://www.upinside.com.br/conquistas/50339)
 ( - / 2.704 / 2.945)  
 
-![Conquistas UpInside 2018 2020](https://user-images.githubusercontent.com/76437195/103810172-2b006d80-5031-11eb-9ef1-e9c4e1f2dddd.jpg)
